@@ -13,5 +13,10 @@ namespace Web17.Controllers
         {
             return View();
         }
+        public ActionResult MyTestUser()
+        {
+            return View();
+        }
+
     }
 }
